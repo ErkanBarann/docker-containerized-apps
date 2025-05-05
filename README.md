@@ -17,7 +17,7 @@ This is a simple **Flask-based Bookstore API** application that connects to a **
 
 ### 📂 Project Structure
 
-.
+```
 ├── bookstore-api.py # Flask app with MySQL connection and RESTful endpoints
 ├── Dockerfile # Image build config for the Flask app
 ├── docker-compose.yml # Orchestration for app and MySQL services
@@ -31,7 +31,7 @@ This is a simple **Flask-based Bookstore API** application that connects to a **
 
 1. **Clone the repo**  
 
-   ```bash
+```bash
    git clone <this-repo-url>
    cd <project-folder>
    
