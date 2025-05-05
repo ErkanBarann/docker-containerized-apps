@@ -29,13 +29,13 @@ This is a simple **Flask-based Bookstore API** application that connects to a **
 
 ### 🚀 How to Run the Project
 
-1. **Clone the repo**  
+1- **Clone the repo**  
 
    ```bash
    git clone <this-repo-url>
    cd <project-folder>
    ```
-2 Start services with Docker Compose
+2- Start services with Docker Compose
 
 	docker compose up --build
 	
