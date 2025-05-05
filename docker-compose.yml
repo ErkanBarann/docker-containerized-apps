@@ -15,8 +15,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: P123456p
       MYSQL_DATABASE: bookstore_db
-      MYSQL_USER: techproed
-      MYSQL_PASSWORD: techpro1234
+      MYSQL_USER: erkan
+      MYSQL_PASSWORD: erkan1234
     networks:
       - techpronet
     volumes:
